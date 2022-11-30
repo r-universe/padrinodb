@@ -1,5 +1,9 @@
 [
   {
+    "package": "ipmr",
+    "oncran": true
+  },
+  {
     "package": "Rpadrino",
     "oncran": true
   }

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ipmr"]
+	path = ipmr
+	url = https://github.com/padrinodb/ipmr
+	shallow = true
+	registered = true
 [submodule "Rpadrino"]
 	path = Rpadrino
 	url = https://github.com/padrinodb/rpadrino

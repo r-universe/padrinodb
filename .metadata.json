@@ -1,10 +1,10 @@
 [
   {
-    "package": "Rpadrino",
+    "package": "ipmr",
     "oncran": true
   },
   {
-    "package": "ipmr",
+    "package": "Rpadrino",
     "oncran": true
   }
 ]

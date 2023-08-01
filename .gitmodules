@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ipmr"]
-	path = ipmr
-	url = https://github.com/padrinodb/ipmr
 [submodule "Rpadrino"]
 	path = Rpadrino
 	url = https://github.com/padrinodb/rpadrino
+[submodule "ipmr"]
+	path = ipmr
+	url = https://github.com/padrinodb/ipmr
